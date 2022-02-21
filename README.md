@@ -1,7 +1,7 @@
 ![MasterHead](https://raw.githubusercontent.com/SaisriramMahesh/SaisriramMahesh/main/banner.gif)
 <h1 align="center">Hi 👋, I'm Saisriram</h1>
 <h3 align="center">Design, Development</h3>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/SaisriramMahesh/SaisriramMahesh/main/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/SaisriramMahesh/SaisriramMahesh/main/giphy.gif">
 
 <!--
 
